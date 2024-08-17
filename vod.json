@@ -81,6 +81,15 @@
       "filterable": 0
     },
     {
+      "key": "360资源",
+      "name": "360资源",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "豪华资源",
       "name": "豪华资源",
       "type": 1,
